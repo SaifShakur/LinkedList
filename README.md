@@ -1,2 +1,2 @@
-# LinkedList
-An implementation of a linked list
+# LinkedList (To Review Data Structures)
+An implementation of a linked list 
